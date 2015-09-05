@@ -2,14 +2,12 @@
 
 # This code is under the MIT License (MIT)
 # Copyright (c) 2015 WuerfelDev
-# See license.txt for whole License
+# See LICENSE -file for whole license
 
 iservhost=""
-#lact=""
-#lpwd=""
+lact=""
+lpwd=""
 
-read -p "Account: " lact
-read -s -p "Passwort: " lpwd
 
 
 cookiefile="/tmp/iservcookie.txt"
