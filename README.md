@@ -20,3 +20,4 @@ Future
 ------
 
 When iserv 3 is released offically and maybe has an API that will make it possible to store passwords as hash like md5. Also it could be much easier to get these information like email-data,...
+<b>UPDATE</b>: Since iserv3 is available now, i am working to use their API (even if there's no documentation about :P) and build a new script to perform these tasks. It is a lot easier now; be patient :D
