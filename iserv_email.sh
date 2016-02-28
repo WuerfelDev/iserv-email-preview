@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # This code is under the MIT License (MIT)
-# Copyright (c) 2015 WuerfelDev
 # See LICENSE -file for whole license
 
 iservhost=""
