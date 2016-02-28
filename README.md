@@ -19,5 +19,5 @@ To get the output into a seperate file, uncomment line 51.
 Future
 ------
 
-When iserv 3 is released offically and maybe has an API that will make it possible to store passwords as hash like md5. Also it could be much easier to get these information like email-data,...
-<b>UPDATE</b>: Since iserv3 is available now, i am working to use their API (even if there's no documentation about :P) and build a new script to perform these tasks. It is a lot easier now; be patient :D
+When iserv 3 is released offically and maybe has an API that will make it possible to stay permanently logged in like the iserv3 app does (sadly it is currently limited to the iserv3 app). Also it ~~will be~~ is much easier to get these information like email-data,...
+<b>UPDATE</b>: Since iserv3 is available now, I am working to use their API (even if there's no documentation about :P) and build a new script to perform these tasks. ~~It is a lot easier now; be patient :D~~ <b>Check out my [iserv3-email-preview](https://github.com/WuerfelDev/iserv3-email-preview)</b>. It acts like this script but uses the powerfull Iserv3 API
